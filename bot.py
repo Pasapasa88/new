@@ -68,7 +68,7 @@ if __name__ == '__main__':
             if start == 0:
                 status, ttg, online = monitoring.export_data()
                 print(status, ttg)
-                if (ttg < 85 and status not in (2, 1)) or online is False:
+                if (ttg < 80 and status not in (2, 3)) or online is False:
                     text = 'Онлайн - ' + str(online) + '\n Температура = ' + str(ttg) + ', ' + state_dict[status]
                     print(text)
                     warning(text,chat_id)
