@@ -8,7 +8,7 @@ PyQt5-sip==12.8.1
 PyQt5-stubs==5.14.2.2
 PyQtWebEngine==5.15.2
 pyTelegramBotAPI==3.7.5
-requests==2.7.0
+requests==2.20.0
 six==1.11.0
 urllib3==1.22
 heroku==0.1.4
