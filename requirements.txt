@@ -1,0 +1,14 @@
+certifi==2018.1.18
+chardet==3.0.4
+idna==2.6
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.14.2.2
+PyQtWebEngine==5.15.2
+pyTelegramBotAPI==3.7.5
+requests==2.7.0
+six==1.11.0
+urllib3==1.22
+heroku==0.1.4
