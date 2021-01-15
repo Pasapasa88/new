@@ -4,3 +4,4 @@ idna==2.10
 pyTelegramBotAPI==3.7.5
 requests==2.25.1
 urllib3==1.26.2
+heroku==0.1.4
