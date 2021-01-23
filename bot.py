@@ -61,7 +61,7 @@ if __name__ == '__main__':
     bot = telebot.TeleBot('1399037172:AAE-vyA0tnXIMDBfctf3QLkTc4-lphdpkhU')
     chat_id = -1001442101581
     keybord()
-    start = -1
+    start = 0
     while True:
         try:
             start = counter(start)
